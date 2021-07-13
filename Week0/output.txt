@@ -1,0 +1,4 @@
+Key element found at index 2
+Number of comparisons performed : 3
+Key element not found
+Number of comparisons performed : 6
