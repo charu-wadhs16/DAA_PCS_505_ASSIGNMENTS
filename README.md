@@ -1,1 +1,3 @@
-# DAA_PCS_505_Assignments
+# DAA_PCS_505_ASSIGNMENTS
+
+# This repository is for DAA LAB ASSIGNMENTS...
