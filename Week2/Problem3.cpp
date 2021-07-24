@@ -36,7 +36,6 @@ int main()
     for(int i=0;i<n;i++)
     cin>>a[i];
     cin>>k;  // k is the key element
-    //function to find three indices such that a[i]+a[j]==a[k]
     cout<<count_pairs(a,n,k)<<endl;
     }
 }
