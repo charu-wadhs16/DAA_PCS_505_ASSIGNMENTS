@@ -48,6 +48,6 @@ int main()
     if(isPath(v,s,d))
     cout<<"Yes Path Exists";
     else
-    cout<<"No Path Exists";
+    cout<<"No Such Path Exists";
     cout<<endl;
 }

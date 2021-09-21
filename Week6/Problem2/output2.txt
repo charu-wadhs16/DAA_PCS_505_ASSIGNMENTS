@@ -1,0 +1,3 @@
+Yes Bipartite
+Not Bipartite
+Yes Bipartite
