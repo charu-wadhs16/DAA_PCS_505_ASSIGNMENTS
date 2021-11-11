@@ -1,0 +1,7 @@
+Maximum value : 22.3333
+item - weight
+3 - 1
+5 - 3
+8 - 5
+6 - 6
+1 - 0
