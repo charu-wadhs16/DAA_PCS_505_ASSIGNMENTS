@@ -22,7 +22,6 @@ void floydWarshall(vector<vector<int>> & graph)
 	}
 	printSolution(dist);
 }
-
 void printSolution(vector<vector<int>> & dist)
 { 
     int INF=9999;
